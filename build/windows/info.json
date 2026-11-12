@@ -1,0 +1,15 @@
+{
+	"fixed": {
+		"file_version": "0.0.1"
+	},
+	"info": {
+		"0409": {
+			"ProductVersion": "0.0.1",
+			"CompanyName": "No Company",
+			"FileDescription": "A program that convertes images to different formats",
+			"LegalCopyright": "(c) 2026, No Company",
+			"ProductName": "Yon's Image Converter",
+			"Comments": "No Comments"
+		}
+	}
+}

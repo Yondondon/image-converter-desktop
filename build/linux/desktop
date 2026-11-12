@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Yon's Image Converter
+Comment=A program that convertes images to different formats
+# The Exec line includes %u to pass the URL to the application
+Exec=/usr/local/bin/image-converter-desktop %u
+Terminal=false
+Type=Application
+Icon=image-converter-desktop
+Categories=Utility;
+StartupWMClass=image-converter-desktop
+
+ 
